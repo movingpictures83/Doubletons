@@ -1,0 +1,2 @@
+Prefix plugins/Doubletons/example/
+Plugin Doubletons inputfile table.qza outputfile alpha_diversity.qza
